@@ -1,0 +1,31 @@
+
+footer {
+    background: rgba(67, 93, 211, 1);
+    bottom: 0;
+    left: 0;
+    padding: 5px 0;
+    position: fixed;
+    right: 0;
+    text-align: center;
+    text-size-adjust: auto;
+    line-height:normal;
+    box-sizing: border-box;
+    display: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    z-index: 1 ;
+  }
+  h6{
+    margin-block-end: 0px;
+    margin-block-start: 0px;
+    height: 28px;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-size-adjust: auto;
+  }
+  h4{
+    margin-block-end: 0px;
+    margin-block-start: 0px;
+  }
